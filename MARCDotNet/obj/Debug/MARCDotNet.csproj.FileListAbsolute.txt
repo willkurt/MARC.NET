@@ -1,0 +1,5 @@
+C:\Documents and Settings\wkurt\My Documents\Visual Studio 2008\Projects\MARCDotNet\MARCDotNet\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wkurt\My Documents\Visual Studio 2008\Projects\MARCDotNet\MARCDotNet\bin\Debug\MARCDotNet.dll
+C:\Documents and Settings\wkurt\My Documents\Visual Studio 2008\Projects\MARCDotNet\MARCDotNet\bin\Debug\MARCDotNet.pdb
+C:\Documents and Settings\wkurt\My Documents\Visual Studio 2008\Projects\MARCDotNet\MARCDotNet\obj\Debug\MARCDotNet.dll
+C:\Documents and Settings\wkurt\My Documents\Visual Studio 2008\Projects\MARCDotNet\MARCDotNet\obj\Debug\MARCDotNet.pdb
