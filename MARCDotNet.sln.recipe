@@ -1,5 +1,6 @@
 <recipe>
   <assembly path="MARCDotNet\bin\Debug\MARCDotNet.dll" />
+  <assembly path="MARCDotNet\bin\Release\MARCDotNet.dll" />
   <selector selectorClass="csUnit.Ui.Controls.TabPages.CheckedTestsSelector">
     <checkedTestsSelector />
   </selector>
